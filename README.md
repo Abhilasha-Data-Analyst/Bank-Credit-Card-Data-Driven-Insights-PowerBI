@@ -378,21 +378,25 @@ These findings provide a data-driven framework for customer acquisition, product
 
 ## **12. Project Deliverables \& Resources**
 
-### 🔗 **Power BI Live Dashboard-**[**Link**](https://app.powerbi.com/view?r=eyJrIjoiYjhkZGNkYTAtYjI5NC00NDFkLWFhOTctOGMyNzUzMTE0OTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### 🔗 **Power BI Live Dashboard-**[**Link**](https://app.powerbi.com/view?r=eyJrIjoiODBmZjAzYTAtYWU1NC00ZGM0LTkxMGQtODM1MTczNGVmMWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ###### 
 
-### **📊 Project Walkthrough Video**-**\[Watch Dashboard Demo](Dashboard/Dashboard.mp4)**
+### **📊 Project Walkthrough Video**
+https://github.com/user-attachments/assets/df1346bd-f3f2-4f78-84b3-5c9a76ccd6d0
 
 
 
-### 📄 **Project Presentation-(Presentation/Project\_Presentation.pdf)**
+
+### 📄 **Project Presentation-[Bank_Credit_Card_Data_Driven_Insights.pdf](https://github.com/user-attachments/files/28437782/Bank_Credit_Card_Data_Driven_Insights.pdf)**
 
 
 
 ### **🖼️ Presentation Preview-**
 
-### 
+<img width="1276" height="720" alt="Image" src="https://github.com/user-attachments/assets/3527de50-5c9a-44ca-a84e-4671425e9426" />
+
+<img width="1278" height="728" alt="Image" src="https://github.com/user-attachments/assets/1bbe8b92-5924-4574-b3ea-20160e514a2a" />
 
 #### **Contact**
 

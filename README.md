@@ -202,8 +202,7 @@ Developed interactive Power BI dashboards for:
   2. Customers aged 25–45 account for nearly 70% of all customers, making them the bank's most important customer segment.
 
 
-
-#### **Business Impact:**
+##### **Business Impact:**
 
 This group represents the strongest opportunity for credit card acquisition and long-term engagement due to their active earning and spending behavior.
 
@@ -217,7 +216,7 @@ This group represents the strongest opportunity for credit card acquisition and 
 
 
 
-#### **Business Impact:**
+##### **Business Impact:**
 
 Family-oriented rewards programs can significantly increase card adoption and customer lifetime value.
 
@@ -231,7 +230,7 @@ Family-oriented rewards programs can significantly increase card adoption and cu
 
 
 
-#### **Business Impact:**
+##### **Business Impact:**
 
 This segment demonstrates strong digital adoption and high transaction potential, making them ideal targets for premium digital-first credit card offerings.
 
@@ -245,7 +244,7 @@ This segment demonstrates strong digital adoption and high transaction potential
 
 
 
-#### **Business Impact:**
+##### **Business Impact:**
 
 Premium credit cards with exclusive benefits and higher credit limits could unlock additional spending from this segment.
 
@@ -259,7 +258,7 @@ Premium credit cards with exclusive benefits and higher credit limits could unlo
 
 
 
-#### **Business Impact:**
+##### **Business Impact:**
 
 Customer acquisition campaigns in Mumbai are likely to deliver the highest return on marketing investment.
 
@@ -273,7 +272,7 @@ Customer acquisition campaigns in Mumbai are likely to deliver the highest retur
 
 
 
-#### **Business Impact:**
+##### **Business Impact:**
 
 Reward-driven digital credit card products can accelerate transaction growth and customer engagement.
 
@@ -287,7 +286,7 @@ Reward-driven digital credit card products can accelerate transaction growth and
 
 
 
-#### **Business Impact:**
+##### **Business Impact:**
 
 They represent the ideal target audience for premium rewards, cashback, travel, and lifestyle-focused credit cards.
 

@@ -292,7 +292,6 @@ These findings provide a data-driven framework for customer acquisition, product
 
   1. Launch Family-Centric Credit Cards
   2. Introduce benefits focused on:
-
      * Groceries
      * Utility Bills
      * Healthcare
@@ -324,7 +323,6 @@ These findings provide a data-driven framework for customer acquisition, product
 
   1. Introduce Premium Cards for High-Income Customers
   2. Design exclusive offerings for Business Owners with:
-
      * Higher Credit Limits
      * Travel Benefits
      * Premium Reward Programs

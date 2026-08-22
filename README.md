@@ -193,106 +193,81 @@ Developed interactive Power BI dashboards for:
 
 ## **9. Data-Driven Insights**
 
-
-
 * ### **Insight 1:** 
 
   1. Working Professionals Represent the Core Customer Base
-
   2. Customers aged 25–45 account for nearly 70% of all customers, making them the bank's most important customer segment.
 
-
 #### **Business Impact:**
-
 This group represents the strongest opportunity for credit card acquisition and long-term engagement due to their active earning and spending behavior.
 
 
-
-* #### **Insight 2:** 
+* ### **Insight 2:** 
 
   1. Married Customers Drive Higher Spending Activity
-
   2. Approximately 78% of customers are married and consistently spend more than single customers across multiple categories.
 
-##### **Business Impact:**
+#### **Business Impact:**
 
 Family-oriented rewards programs can significantly increase card adoption and customer lifetime value.
 
 
-
-* #### **Insight 3:** 
+* ### **Insight 3:** 
 
   1. Salaried IT Employees Are the Most Engaged Customers
-
   2. Salaried IT professionals form the largest occupational segment and record the highest income utilization rate (1.42%).
 
-
-
-##### **Business Impact:**
+#### **Business Impact:**
 
 This segment demonstrates strong digital adoption and high transaction potential, making them ideal targets for premium digital-first credit card offerings.
 
 
-
-* #### **Insight 4:** 
+* ### **Insight 4:** 
 
   1. Business Owners Earn the Highest Income
-
   2. Business owners report the highest average income (\~₹70K), yet their spending utilization remains lower than salaried IT professionals.
 
 
 
-##### **Business Impact:**
+#### **Business Impact:**
 
 Premium credit cards with exclusive benefits and higher credit limits could unlock additional spending from this segment.
 
 
-
-* #### **Insight 5:** 
+* ### **Insight 5:** 
 
   1. Mumbai Offers the Strongest Market Opportunity
-
   2. Mumbai contributes the largest customer base while also recording the highest spending utilization levels.
 
 
-
-##### **Business Impact:**
+#### **Business Impact:**
 
 Customer acquisition campaigns in Mumbai are likely to deliver the highest return on marketing investment.
 
 
 
-* #### **Insight 6:** 
+* ### **Insight 6:** 
 
   1. Digital Payment Users Spend More
-
   2. Customers using credit cards and digital payment methods consistently demonstrate higher spending activity than users of traditional payment channels.
 
 
-
-##### **Business Impact:**
+#### **Business Impact:**
 
 Reward-driven digital credit card products can accelerate transaction growth and customer engagement.
 
 
-
-* #### **Insight 7:** 
+* ### **Insight 7:** 
 
   1. Professionals Aged 25–45 Form the Highest-Value Segment
-
   2. This customer group combines strong income levels with the highest spending behavior.
 
-
-
-##### **Business Impact:**
+#### **Business Impact:**
 
 They represent the ideal target audience for premium rewards, cashback, travel, and lifestyle-focused credit cards.
 
 
-
 ## **10. Project Outcome**
-
-
 
 * ### **Key outcomes:**
 
@@ -302,21 +277,15 @@ They represent the ideal target audience for premium rewards, cashback, travel, 
   4. Identified Mumbai and Delhi NCR as priority markets for expansion.
   5. Uncovered strong opportunities for digital-first credit card products.
 
-
-
 These findings provide a data-driven framework for customer acquisition, product design, and market expansion strategies.
 
 
-
 ## **11. Business Recommendations**
-
-
 
 * ### **Recommendation 1:** 
 
   1. Focus on High-Value Customer Segments
   2. Prioritize customers aged 25–45, married professionals, and Salaried IT Employees during acquisition campaigns.
-
 
 
 * ### **Recommendation 2:** 
@@ -329,8 +298,6 @@ These findings provide a data-driven framework for customer acquisition, product
      * Healthcare
      * Dining
      * Fuel Expenses
-
-
 
 * ### **Recommendation 3:** 
 

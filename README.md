@@ -195,14 +195,14 @@ Developed interactive Power BI dashboards for:
 
 
 
-* #### **Insight 1:** 
+* ### **Insight 1:** 
 
   1. Working Professionals Represent the Core Customer Base
 
   2. Customers aged 25–45 account for nearly 70% of all customers, making them the bank's most important customer segment.
 
 
-##### **Business Impact:**
+#### **Business Impact:**
 
 This group represents the strongest opportunity for credit card acquisition and long-term engagement due to their active earning and spending behavior.
 
@@ -213,8 +213,6 @@ This group represents the strongest opportunity for credit card acquisition and 
   1. Married Customers Drive Higher Spending Activity
 
   2. Approximately 78% of customers are married and consistently spend more than single customers across multiple categories.
-
-
 
 ##### **Business Impact:**
 
